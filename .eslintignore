@@ -1,0 +1,10 @@
+build/*
+dist/*
+vite.config.ts
+node_modules/*
+.eslintrc.js
+commitlint.config.js
+ui-cli/*
+__mocks__
+server.js
+public/*
